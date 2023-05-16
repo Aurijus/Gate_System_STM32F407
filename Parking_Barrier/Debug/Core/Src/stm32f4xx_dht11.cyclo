@@ -1,0 +1,8 @@
+stm32f4xx_dht11.c:23:6:DHT11_SetPinOutput	1
+stm32f4xx_dht11.c:32:6:DHT11_SetPinInput	1
+stm32f4xx_dht11.c:41:6:DHT11_StartRead	1
+stm32f4xx_dht11.c:54:9:DHT11_CheckResponse	4
+stm32f4xx_dht11.c:75:9:DHT11_ReadValues	5
+stm32f4xx_dht11.c:96:6:DHT11_PrintValues	2
+stm32f4xx_dht11.c:114:6:DHT11_PrintTemp	1
+stm32f4xx_dht11.c:124:6:DHT11_PrintHum	1

@@ -1,0 +1,4 @@
+../Core/Src/stm32f4xx_hcsr04.c:26:6:HCSR04_ReadIn	8	static
+../Core/Src/stm32f4xx_hcsr04.c:35:6:HCSR04_ReadOut	8	static
+../Core/Src/stm32f4xx_hcsr04.c:44:6:HCSR04_MeasureIn	16	static
+../Core/Src/stm32f4xx_hcsr04.c:75:6:HCSR04_MeasureOut	16	static

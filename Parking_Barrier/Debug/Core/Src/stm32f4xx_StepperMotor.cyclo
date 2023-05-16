@@ -1,0 +1,4 @@
+stm32f4xx_StepperMotor.c:12:6:StepperMotor_SetRPM	1
+stm32f4xx_StepperMotor.c:17:6:StepperMotor_HalfDrive	9
+stm32f4xx_StepperMotor.c:79:6:StepperMotor_WaveDrive	5
+stm32f4xx_StepperMotor.c:112:6:StepperMotor_AngledStep	6

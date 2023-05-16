@@ -1,0 +1,2 @@
+stm32f4xx_hcsr04.c:21:6:HCSR04_Read	1
+stm32f4xx_hcsr04.c:30:6:HCSR04_Measure	5
